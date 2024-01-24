@@ -18,7 +18,7 @@ pandas\
 sklearn\
 pickle\
 streamlit\
-requests\
+requests
 
 # Usage
 To use the movie recommendation system, follow these steps:
